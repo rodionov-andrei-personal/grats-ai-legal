@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+---
+
 # Terms of Use
 
 **Effective Date:** May 6, 2025
